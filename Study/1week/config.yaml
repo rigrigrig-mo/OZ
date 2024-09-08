@@ -1,0 +1,5 @@
+tables:
+  table1: 1000
+  table2: 5000
+  table3: 20000
+reset_data: true
